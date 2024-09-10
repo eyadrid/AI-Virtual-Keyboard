@@ -24,31 +24,31 @@ pip install -r requirements.txt
 
 1. **Clone the repository:**
 
-```bash
-git clone https://github.com/eyadrid/AI-Virtual-Keyboard.git
-cd AI-Virtual-Keyboard
-```
+    ```bash
+    git clone https://github.com/eyadrid/AI-Virtual-Keyboard.git
+    cd AI-Virtual-Keyboard
+    ```
 
 
 2. **Install the required packages:**
 
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
-1. **Connect your webcam and make sure it's working.**
+1. Connect your webcam and make sure it's working.
 
-2. **Run the application:**
+2. Run the application:
 
-```bash
-python main.py
-```
+    ```bash
+    python main.py
+    ```
 
-3. **A window will open displaying the webcam feed with an overlay of the virtual keyboard. Move your hand over the keys to see them highlight.**
+3. A window will open displaying the webcam feed with an overlay of the virtual keyboard. Move your hand over the keys to see them highlight.
 
-4. **When your hand is close to a key (within 30 pixels), the key is pressed and its character is added to the final text displayed at the bottom of the screen.**
+4. When your hand is close to a key (within 30 pixels), the key is pressed and its character is added to the final text displayed at the bottom of the screen.
 
 ## Features
 
