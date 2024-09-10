@@ -24,10 +24,11 @@ pip install -r requirements.txt
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone
-   cd
-   ```
+```bash
+git clone https://github.com/eyadrid/AI-Virtual-Keyboard.git
+cd AI-Virtual-Keyboard
+```
+
 
 2. **Install the required packages:**
 
