@@ -16,9 +16,9 @@ The project requires the following Python packages:
 
 You can install these dependencies using the `requirements.txt` file. Run the following command to install them:
 
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Installation
 
